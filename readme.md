@@ -1,32 +1,32 @@
 ## COMPONENTS THAT NEED TO BE DELIVERED ##
 
-1. Software Layers
+### Software Layers
   * UI
   * Mid Tier
   * Data Store
   * Security Layer
   * Logging 
 
-2. Infrastructure
+### Infrastructure
   * Cloudformation
   * AWS EC2
   * AWS Lambda
   * AWS Datastore
   * Route 53 / CloudFlare
 
-3. CI/CD
+### CI/CD
   * Concourse
   * Performance testing 
   * GitHub
   
-4. Productionalization
+### Productionalization
   * Monitoring
   * Content Delivery Network
   * DDOS mitigation
   
 ## PROCESS TO CREATE APP ##
 
-### PHASE 1 PLAN SOFTWARE ARCH
+### PHASE 1 PLAN SOFTWARE ARCH 
     1. Design the UI
     2. Design the services that will feed the UI
     3. Design the datastore
